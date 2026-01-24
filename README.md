@@ -2,10 +2,9 @@
 ---
 
 <p align="center">
-<b>💻 Aspiring Software Engineer | Web Developer | DSA | Problem Solver | YouTuber</b>
+<b> Aspiring Software Engineer | Web Developer | DSA | Problem Solver | YouTuber </b>
 </p>
 
----
 🔭 I’m currently working on Using Ai In EdTech Innovation <br>
 🌱 I’m currently learningDSA in C, Graphics, DBMS, & JAVA <br>
 🌐 Exploring Web Development <br>
