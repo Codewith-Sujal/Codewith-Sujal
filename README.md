@@ -10,7 +10,7 @@
 
 ---
 
-## 🌐 Let's Connect :
+### 🌐 Let's Connect :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sujal_kr_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujalkr05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujalkr051@gmail.com) 
 
 ---
