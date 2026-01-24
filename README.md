@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujal Kumar</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Codewith-Sujal&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 <h3 align="center">Aspiring Web Developer | DSA | Problem Solving | YouTuber </h3>
 
 🔭 I’m currently working on Using Ai In EdTech Innovation <br>
@@ -33,4 +29,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Codewith-Sujal&icon=6&color=7)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Codewith-Sujal&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
