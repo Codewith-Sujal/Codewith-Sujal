@@ -1,8 +1,8 @@
-# 💫 Hi, I'm Sujal!👋 <br>
+# Hi👋, I'm Sujal Kumar <br>
 ---
 
 <p align="center">
-<b> Aspiring Software Engineer | Web Developer | DSA | Problem Solver | YouTuber </b>
+<b> Aspiring Web Developer | DSA | Problem Solver | YouTuber </b>
 </p>
 
 🔭 I’m currently working on Using Ai In EdTech Innovation <br>
