@@ -1,9 +1,7 @@
-# 💫 Hi, I'm Sujal!👋
+# 💫 Hi, I'm Sujal!👋 <br>
 
---- 
-
-💻 Aspiring Software Engineer | Web Developer | DSA | Problem Solver | YouTuber 
-🔭 I’m currently working on Using Ai In EdTech Innovation
+💻 Aspiring Software Engineer | Web Developer | DSA | Problem Solver | YouTuber <br>
+🔭 I’m currently working on Using Ai In EdTech Innovation <br>
 🌱 I’m currently learningDSA in C, Graphics, DBMS, & JAVA
 🌐 Exploring Web Development
 💬 Ask me about : C, C++, Web Development & Growth Tricks for YT 
