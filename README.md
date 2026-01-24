@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sujal Kumar</h1>
-
 ---
 <p align="center">
 <strong>Aspiring Software Engineer | Web Developer | DSA | Problem Solving | Tech Creator</strong>
