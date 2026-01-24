@@ -3,10 +3,9 @@
 </p> 
 
 ---
-
 <p align="center">
-<b>Aspiring Software Engineer | Web Developer | DSA | Problem Solving | Tech Creator</b>
-</p> <br>
+<strong>Aspiring Software Engineer | Web Developer | DSA | Problem Solving | Tech Creator</strong>
+</p> 
 
 🔭 I’m currently working on Using Ai In EdTech Innovation <br>
 🌱 I’m currently learningDSA in C, Graphics, DBMS, & JAVA <br>
