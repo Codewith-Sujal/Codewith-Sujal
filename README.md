@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Web Developer | DSA | Problem Solving | YouTuber </h3>
 
 🔭 I’m currently working on Using Ai In EdTech Innovation <br>
-🌱 I’m currently learningDSA in C, Graphics, DBMS, & JAVA <br>
+🌱 I’m currently learning DSA in C, Graphics, DBMS, & JAVA <br>
 🌐 Exploring Web Development <br>
 💬 Ask me about : C, C++, Web Development & Growth Tricks for YT <br>
 🛠️ Building practical and real-world projects <br>
