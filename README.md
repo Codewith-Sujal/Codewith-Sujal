@@ -30,6 +30,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Codewith-Sujal&icon=6&color=7)](https://visitcount.itsvg.in)
 
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Codewith-Sujal&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
+
