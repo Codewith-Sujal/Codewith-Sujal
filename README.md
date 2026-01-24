@@ -1,5 +1,3 @@
-## Hi👋 I Am Sujal.
-
 # 💫 Hi, I'm Sujal! 👋
 
 🎓 Computer Science Student | 💻 Aspiring Software Engineer  
