@@ -1,10 +1,13 @@
 <p align="center">
 <b> Hi👋, I'm Sujal Kumar </b> <br>
 </p>
+
 ---
+
 <p align="center">
-<b> Aspiring Web Developer | DSA | Problem Solver | YouTuber </b>
+<h1> Aspiring Web Developer | DSA | Problem Solver | YouTuber </h1>
 </p>
+
 <b>
 🔭 I’m currently working on Using Ai In EdTech Innovation <br>
 🌱 I’m currently learningDSA in C, Graphics, DBMS, & JAVA <br>
@@ -13,6 +16,7 @@
 🛠️ Building practical and real-world projects <br>
 🚀 Interested in startups and open source <br>
 </b>
+
 ---
 
 ### 🛠️ Tech Stack :-
