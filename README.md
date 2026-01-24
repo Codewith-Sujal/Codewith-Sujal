@@ -1,6 +1,6 @@
 <p align="center">
-<h3> Hi👋, I'm Sujal Kumar </h3> <br>
-</p>
+<h3> Hi👋, I'm Sujal Kumar </h3>
+</p> <br>
 
 ---
 
@@ -8,14 +8,14 @@
 <h3> Aspiring Web Developer | DSA | Problem Solver | YouTuber </h3>
 </p>
 
-<b>
+
 🔭 I’m currently working on Using Ai In EdTech Innovation <br>
 🌱 I’m currently learningDSA in C, Graphics, DBMS, & JAVA <br>
 🌐 Exploring Web Development <br>
 💬 Ask me about : C, C++, Web Development & Growth Tricks for YT <br>
 🛠️ Building practical and real-world projects <br>
 🚀 Interested in startups and open source <br>
-</b>
+
 
 ---
 
