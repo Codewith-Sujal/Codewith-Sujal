@@ -1,6 +1,4 @@
-<p align="center">
-<h1> Hi👋, I'm Sujal Kumar </h1>
-</p> 
+<h1 align="center">Hi 👋, I'm Sujal Kumar</h1>
 
 ---
 <p align="center">
