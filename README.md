@@ -28,9 +28,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Codewith-Sujal&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Codewith-Sujal&icon=6&color=7)](https://visitcount.itsvg.in)
-
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Codewith-Sujal&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
