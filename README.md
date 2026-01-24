@@ -1,13 +1,12 @@
 <p align="center">
-<h3> Hi👋, I'm Sujal Kumar </h3>
-</p> <br>
+<h1> Hi👋, I'm Sujal Kumar </h1>
+</p> 
 
 ---
 
 <p align="center">
-<h3> Aspiring Web Developer | DSA | Problem Solver | YouTuber </h3>
-</p>
-
+<b>Aspiring Software Engineer | Web Developer | DSA | Problem Solving | Tech Creator</b>
+</p> <br>
 
 🔭 I’m currently working on Using Ai In EdTech Innovation <br>
 🌱 I’m currently learningDSA in C, Graphics, DBMS, & JAVA <br>
