@@ -1,11 +1,11 @@
 <p align="center">
-<b> Hi👋, I'm Sujal Kumar </b> <br>
+<h3> Hi👋, I'm Sujal Kumar </h3> <br>
 </p>
 
 ---
 
 <p align="center">
-<h1> Aspiring Web Developer | DSA | Problem Solver | YouTuber </h1>
+<h3> Aspiring Web Developer | DSA | Problem Solver | YouTuber </h3>
 </p>
 
 <b>
