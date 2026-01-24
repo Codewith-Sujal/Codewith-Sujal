@@ -2,11 +2,11 @@
 
 💻 Aspiring Software Engineer | Web Developer | DSA | Problem Solver | YouTuber <br>
 🔭 I’m currently working on Using Ai In EdTech Innovation <br>
-🌱 I’m currently learningDSA in C, Graphics, DBMS, & JAVA
-🌐 Exploring Web Development
-💬 Ask me about : C, C++, Web Development & Growth Tricks for YT 
-🛠️ Building practical and real-world projects 
-🚀 Interested in startups and open source  
+🌱 I’m currently learningDSA in C, Graphics, DBMS, & JAVA <br>
+🌐 Exploring Web Development <br>
+💬 Ask me about : C, C++, Web Development & Growth Tricks for YT <br>
+🛠️ Building practical and real-world projects <br>
+🚀 Interested in startups and open source <br>
 
 ---
 
@@ -25,4 +25,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Codewith-Sujal&icon=6&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
